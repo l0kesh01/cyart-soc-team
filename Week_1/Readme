@@ -1,0 +1,24 @@
+# Week 1 - SOC Labs
+
+This folder contains the practical exercises completed for Week 1 as part of the SOC training.
+
+## Labs Included
+
+### 1. ELK Lab
+- Simulated a controlled lab environment using Metasploitable2 and Kali Linux.
+- Performed FTP login, log extraction, and ingestion into ELK stack.
+- Created dashboards to visualize events.
+- Included:
+  - Screenshots of dashboards
+  - PDF file explaining the lab setup, workflow, and observations
+
+### 2. Splunk Lab
+- Completed the online "Investigating Ransomware with Splunk" exercise from the Boss-of-the-SOC platform.
+- Practiced searching, event correlation, and threat analysis using the BOTS dataset.
+- Included:
+  - Selected screenshots from the exercise
+  - PDF summarizing workflow, findings, and lessons learned
+
+## Notes
+All artifacts, screenshots, and PDFs are included in their respective subfolders. The materials demonstrate practical SOC skills including log analysis, dashboard creation, alert investigation, and use of threat intelligence.
+
